@@ -1,0 +1,30 @@
+body {
+  background-color: #161616;
+  color: white;
+}
+
+header {
+  height: 3em;
+  background-color: #060606;
+}
+
+header div {
+  float: left;
+  padding: 1em;
+}
+
+header .browse span:hover, header .user a:hover {
+  background-color: #669999;
+  cursor: pointer;
+}
+
+.logo {
+  color: red;
+  font-weight: bold;
+}
+
+.container button {
+  padding: 0.5em;
+  background-color: black;
+  color: white;
+}
